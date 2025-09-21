@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz ENT101</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#764ba2">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="header">
+    <a href="index.html">
+      <img src="img/home.png" alt="Logo" class="logo">
+    </a>
+    <h1 class="title">Quizzer ENT101-Ee</h1>
+  </div>
+
+  <div id="app" class="container">
+    <div class="content">
+      <h1>Welcome to Quizzer ENT101-Ee</h1>
+      <p>Developed by Al-moain U. Algamar</p>
+    </div>
+
+    <!-- Questions Section -->
+    <div class="question-content" v-if="currentQuestion">
+        <p>{{ currentQuestion.question }}</p>
+        <ul>
+            <li v-for="(opt, i) in currentQuestion.options" :key="i">
+                <label>
+                    <input type="radio" v-model="selected" :value="i">
+                    {{ opt }}
+                </label>
+            </li>
+        </ul>
+        <button @click="submit">
+            Submit
+        </button>
+        <p v-if="feedback">
+            {{ feedback }}, your score is {{ score }} out of {{ questions.length }}.
+        </p>
+    </div>
+  </div>
+  <script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("service-worker.js")
+  }
+  </script>
+</body>
+</html>

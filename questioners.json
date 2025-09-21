@@ -1,0 +1,551 @@
+[
+    {
+        "id": 1,
+        "question": "What is a startup?",
+        "options": [
+            "A traditional small business with stable revenue",
+            "A newly established business aiming for rapid growth and innovation",
+            "A government-owned enterprise",
+            "An established multinational company"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is NOT a key characteristic of a startup?",
+        "options": [
+            "Innovation",
+            "Scalability",
+            "Guaranteed success",
+            "Risk and uncertainty"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 3,
+        "question": "Which company disrupted the hospitality industry by letting people rent out their homes?",
+        "options": [
+            "Uber",
+            "Airbnb",
+            "Slack",
+            "Kickstarter"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 4,
+        "question": "Which company transformed transportation using a mobile app to connect riders and drivers?",
+        "options": [
+            "Airbnb",
+            "Uber",
+            "TOMS Shoes",
+            "Patagonia"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 5,
+        "question": "What is the typical size of an early-stage startup?",
+        "options": [
+            "1–10 people",
+            "50–100 people",
+            "500+ employees",
+            "None of the above"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 6,
+        "question": "Which of these is an example of a social enterprise startup?",
+        "options": [
+            "Netflix",
+            "TOMS Shoes",
+            "Google",
+            "Uber"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 7,
+        "question": "Startups are designed with the intention to:",
+        "options": [
+            "Remain small and local",
+            "Scale rapidly",
+            "Avoid risks",
+            "Stay nonprofit forever"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is true about startups?",
+        "options": [
+            "They operate under conditions of certainty",
+            "They aim for stability before innovation",
+            "They thrive in uncertainty and validate ideas quickly",
+            "They avoid investment and loans"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 9,
+        "question": "Which startup disrupted the eyewear retail industry with direct-to-consumer sales?",
+        "options": [
+            "Warby Parker",
+            "Kickstarter",
+            "Spotify",
+            "Nest"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 10,
+        "question": "Which company disrupted the music industry with a streaming platform?",
+        "options": [
+            "Netflix",
+            "Spotify",
+            "Slack",
+            "Kiva"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 11,
+        "question": "Startups often pivot their business model in response to:",
+        "options": [
+            "Government laws",
+            "Market feedback",
+            "Competitors copying",
+            "Employee pressure"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 12,
+        "question": "External funding for startups usually comes from:",
+        "options": [
+            "Bank deposits",
+            "Venture capital and angel investors",
+            "Random donations",
+            "Insurance"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 13,
+        "question": "Which is an example of a buyable startup later acquired by a larger company?",
+        "options": [
+            "Instagram",
+            "Spotify",
+            "Slack",
+            "Patagonia"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 14,
+        "question": "Which startup stage involves validating the idea and revenue model?",
+        "options": [
+            "Seed & MVP",
+            "Idea & Concept",
+            "Growth & Establishment",
+            "Maturity & Exit"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 15,
+        "question": "Which startup stage focuses on achieving product-market fit (PMF)?",
+        "options": [
+            "Growth",
+            "Maturity",
+            "MVP to Product",
+            "Exit"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 16,
+        "question": "In which stage is the Minimum Viable Product (MVP) created?",
+        "options": [
+            "Seed Stage",
+            "Exit Stage",
+            "Maturity Stage",
+            "IPO Stage"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 17,
+        "question": "Scalable startups are usually founded by entrepreneurs who believe they can:",
+        "options": [
+            "Dominate a local market",
+            "Change the world with their idea",
+            "Stay small and secure",
+            "Sell to family only"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 18,
+        "question": "Which type of startup is built with the intention of being sold?",
+        "options": [
+            "Lifestyle Startup",
+            "Scalable Startup",
+            "Buyable Startup",
+            "Social Startup"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 19,
+        "question": "Which type of startup focuses more on community impact than profits?",
+        "options": [
+            "Scalable Startup",
+            "Social Startup",
+            "Buyable Startup",
+            "Large Company Startup"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 20,
+        "question": "Which type of startup is often a spinoff of an existing corporation?",
+        "options": [
+            "Large Company Startup",
+            "Lifestyle Startup",
+            "Buyable Startup",
+            "Seed Startup"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is NOT a non-technological startup example?",
+        "options": [
+            "Sweetgreen",
+            "Warby Parker",
+            "TOMS Shoes",
+            "SpaceX"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "id": 22,
+        "question": "Netflix originally started as a:",
+        "options": [
+            "Streaming platform",
+            "DVD rental by mail service",
+            "TV channel",
+            "Movie production company"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 23,
+        "question": "Kickstarter is an example of a startup that innovated in:",
+        "options": [
+            "Hospitality",
+            "Crowdfunding",
+            "Transportation",
+            "Music"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 24,
+        "question": "Slack primarily disrupted which industry?",
+        "options": [
+            "Healthcare",
+            "Workplace communication",
+            "Banking",
+            "Transportation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 25,
+        "question": "Which of the following best describes Airbnb's early model?",
+        "options": [
+            "Connecting homeowners with travelers for affordable lodging",
+            "Streaming movies",
+            "Providing groceries online",
+            "Peer-to-peer music sharing"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 26,
+        "question": "SpaceX disrupted which industry?",
+        "options": [
+            "Retail",
+            "Aerospace",
+            "Education",
+            "Hospitality"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 27,
+        "question": "Patagonia is considered a startup with a strong focus on:",
+        "options": [
+            "Fast fashion",
+            "Environmental sustainability",
+            "Gaming",
+            "Food delivery"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 28,
+        "question": "Kiva allows people to:",
+        "options": [
+            "Stream videos",
+            "Rent houses",
+            "Lend money to low-income entrepreneurs",
+            "Buy eyewear"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 29,
+        "question": "Which stage tests profitability and scalability?",
+        "options": [
+            "Product Market Fit",
+            "Idea Validation",
+            "Scaleup Stage",
+            "Exit"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 30,
+        "question": "At which stage is a startup no longer considered a startup but a business?",
+        "options": [
+            "Growth and Establishment",
+            "Seed Stage",
+            "PMF Stage",
+            "Exit"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 31,
+        "question": "The maturity stage of a startup often involves deciding whether to:",
+        "options": [
+            "Seek seed funding",
+            "Sell or expand the company",
+            "Develop MVP",
+            "Pivot"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 32,
+        "question": "A startup that focuses on providing a comfortable life for the founder’s family is a:",
+        "options": [
+            "Scalable Startup",
+            "Small Business Startup",
+            "Lifestyle Startup",
+            "Large Company Startup"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 33,
+        "question": "Hairdressing salons and bakeries are examples of:",
+        "options": [
+            "Scalable startups",
+            "Small Business startups",
+            "Social startups",
+            "Buyable startups"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 34,
+        "question": "Google, Uber, and Facebook started as examples of:",
+        "options": [
+            "Large Company startups",
+            "Buyable startups",
+            "Scalable startups",
+            "Lifestyle startups"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 35,
+        "question": "Which stage often attracts the most serious investments?",
+        "options": [
+            "Seed Stage",
+            "Scaleup Stage",
+            "Exit Stage",
+            "Idea Stage"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 36,
+        "question": "Which startup type often has a limited lifespan due to market shifts?",
+        "options": [
+            "Large Company Startup",
+            "Lifestyle Startup",
+            "Buyable Startup",
+            "Social Startup"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 37,
+        "question": "What do venture capitals usually look for in a startup?",
+        "options": [
+            "Strong growth rates in a short time",
+            "Safe investments with no risk",
+            "Small family-run models",
+            "Businesses avoiding innovation"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 38,
+        "question": "Which startup was acquired by Facebook for $19 billion?",
+        "options": [
+            "Instagram",
+            "WhatsApp",
+            "Nest",
+            "Airbnb"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 39,
+        "question": "Nest was acquired by which large company?",
+        "options": [
+            "Facebook",
+            "Amazon",
+            "Google",
+            "Spotify"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "id": 40,
+        "question": "Which startup spun off from Google and worked on self-driving cars?",
+        "options": [
+            "Nest",
+            "Waymo",
+            "Airbnb",
+            "Netflix"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 41,
+        "question": "Amazon Web Services (AWS) started as an internal project of:",
+        "options": [
+            "Microsoft",
+            "Amazon",
+            "Google",
+            "Facebook"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 42,
+        "question": "The iPhone project within Apple is an example of:",
+        "options": [
+            "Social Startup",
+            "Large Company Startup",
+            "Lifestyle Startup",
+            "Buyable Startup"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 43,
+        "question": "What is the first stage of a startup journey?",
+        "options": [
+            "PMF Stage",
+            "Idea Validation",
+            "Growth Stage",
+            "Exit"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 44,
+        "question": "The MVP helps entrepreneurs to:",
+        "options": [
+            "Avoid risks entirely",
+            "Test user interest with a basic version",
+            "Launch a finished full product immediately",
+            "Get government approval"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 45,
+        "question": "Which stage often lasts several years while refining a product?",
+        "options": [
+            "Seed & MVP",
+            "Product-Market Fit",
+            "Exit",
+            "Idea stage"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 46,
+        "question": "Which company disrupted video rental and TV broadcasting?",
+        "options": [
+            "Spotify",
+            "Netflix",
+            "Kickstarter",
+            "Uber"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 47,
+        "question": "Which company is an outdoor clothing brand committed to sustainability?",
+        "options": [
+            "Nest",
+            "Patagonia",
+            "TOMS Shoes",
+            "Warby Parker"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "id": 48,
+        "question": "Which startup made music available on-demand instead of physical sales?",
+        "options": [
+            "Spotify",
+            "Kickstarter",
+            "Netflix",
+            "Kiva"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "id": 49,
+        "question": "What is the main goal of lifestyle startups?",
+        "options": [
+            "Achieve global market share",
+            "Sustain the entrepreneur’s preferred way of living",
+            "Get acquired quickly",
+            "Revolutionize industries"
+        ],
+        "correctIndex": 1
+    },{
+    "id": 50,
+    "question": "Startups often rely on which of the following to support early-stage growth?",
+    "options": [
+      "Personal savings only",
+      "Government subsidies",
+      "External funding such as venture capital or angel investors",
+      "Lottery winnings"
+    ],
+    "correctIndex": 2
+  }
+]
